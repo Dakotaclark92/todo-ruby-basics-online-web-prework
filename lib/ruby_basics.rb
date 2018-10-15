@@ -8,7 +8,7 @@ end
 
 def argue
   puts phrase
-  phrase = "I'm right and you"
+  phrase = "I'm right and you are wrong!"
 end
 
 def greeting
