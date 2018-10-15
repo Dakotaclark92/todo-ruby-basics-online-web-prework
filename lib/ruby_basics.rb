@@ -2,7 +2,7 @@ def division(42/7)
 
 end
 
-def assign_variable(Bob)
+def assign_variable
   
 end
 
