@@ -11,8 +11,8 @@ def argue
   phrase = "I'm right and you are wrong!"
 end
 
-def greeting(name)
-greeting = "Hi there,"
+def greeting
+greeting = "Hi there," (name)
 name = "Bobby!"
 end
 
