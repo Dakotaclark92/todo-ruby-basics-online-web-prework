@@ -3,7 +3,7 @@ def division(42/7)
 end
 
 def assign_variable
-  
+  "Bob"
 end
 
 def argue
