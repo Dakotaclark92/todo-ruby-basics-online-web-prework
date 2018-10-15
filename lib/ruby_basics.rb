@@ -12,8 +12,9 @@ def argue
 end
 
 def greeting
-greeting = "Hi there," (name)
+greeting = "Hi there," #(name)
 name = "Bobby!"
+puts greeting, name
 end
 
 def return_a_value
